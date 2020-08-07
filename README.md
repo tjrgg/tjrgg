@@ -13,8 +13,7 @@ I'm currently working on:
 - [Enderverse](https://github.com/enderverse)
 - [Simple YouTube API](https://github.com/tjrgg/simple-youtube-api)
 - [TypicalBot](https://github.com/typicalbot/typicalbot)
-- [TypicalBot Policies](https://github.com/typicalbot/policies)
----
+
 
 <table>
   <tr>
