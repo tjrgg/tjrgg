@@ -1,8 +1,8 @@
 ### 👋 Hello, world! 
 
-I'm Tyler, a self-taught software developer from Minnesota.
+I'm Tyler, a business manager and software developer from Minnesota.
 
-You might know me from my work on various projects with [<img src="https://avatars1.githubusercontent.com/u/22743645?s=18"> Enderverse](https://github.com/enderverse) and [<img src="https://avatars1.githubusercontent.com/u/63743226?s=18"> TypicalBot](https://github.com/typicalbot).
+You might know me as a co-founder of [Trpkit](https://trpkit.com), or from my work on various projects with [<img src="https://avatars1.githubusercontent.com/u/22743645?s=18"> Enderverse](https://github.com/enderverse) and [<img src="https://avatars1.githubusercontent.com/u/63743226?s=18"> TypicalBot](https://github.com/typicalbot).
 
 I work with:
 - <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js
@@ -10,10 +10,7 @@ I work with:
 - <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript
 
 I'm currently working on:
-- [Enderverse](https://github.com/enderverse)
-- [Simple YouTube API](https://github.com/tjrgg/simple-youtube-api)
-- [TypicalBot](https://github.com/typicalbot/typicalbot)
-
+- [Trpkit](https://github.com/trpkit/trpkit)
 
 <table>
   <tr>
